@@ -7,7 +7,7 @@ class Persona {
     private $ingresos;
     //private $ingresosMen;
     //private $ingresosAn;
-
+//comentario de prueba
 
 
 
